@@ -4,3 +4,6 @@
 
 ![猫](https://github.com/Tetsuya-Nishikawa/CAM/blob/master/cat.jpg)
 ![ヒートマップ](https://github.com/Tetsuya-Nishikawa/CAM/blob/master/スクリーンショット%202020-06-06%2011.18.48.png)
+
+<h2>使い方</h2>
+ターミナル上で、python cam.py
