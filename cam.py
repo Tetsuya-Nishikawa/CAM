@@ -3,9 +3,8 @@ import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import tensorflow as tf
-import seaborn as sns
 
-%matplotlib inline
+#%matplotlib inline
 
 tf.random.set_seed(
     1234
